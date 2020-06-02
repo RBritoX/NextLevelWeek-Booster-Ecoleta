@@ -18,7 +18,7 @@
   🚧 In Development 🚧
 </h3>
 
-## 🚀 Next Level Week Starter 1
+## 🚀 Next Level Week Booster 1
 
 The Next Level Week of [RocketSeat](https://rocketseat.com.br/) came to replace the Omnistack Week, following better for all audiences, from beginners with HTML, CSS and JavaScript, to the most advanced with Node.js, React.js and React Native.
 
