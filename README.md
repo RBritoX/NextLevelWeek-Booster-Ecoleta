@@ -1,6 +1,30 @@
 <h1 align="center">
-  <img src="./assets/logo.svg" alt="Ecoleta" width="500">
+  <img src="./frontend/src/assets/logo.svg" alt="Ecoleta" width="500">
 </h1>
+
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rbritox/nextlevelweek-booster-ecoleta">
+
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rbritox/nextlevelweek-booster-ecoleta">
+
+  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/rbritox/nextlevelweek-booster-ecoleta">
+
+  <img alt="Code quality" src="https://api.codacy.com/project/badge/Grade/45ac7042be6941f0be6cf27d7168a1af">
+  
+  <img alt="Made by Rocketseat" src="https://img.shields.io/github/license/rbritox/GoStack-GoBarber">
+
+  <br>
+
+  <img alt="Node.js version" src="https://img.shields.io/badge/Node.js-v12.16.1-689f63?style=flat&logoColor=689f63&logo=node.js">
+
+  <img alt="TypeScript version" src="https://img.shields.io/badge/TypeScript-v3.9.3-007acc?style=flat&logoColor=007acc&logo=typescript">
+
+  <img alt="React.js version" src="https://img.shields.io/badge/React.js-v16.13.1-60dafb?style=flat&logoColor=60dafb&logo=react">
+
+  <img alt="React Native version" src="https://img.shields.io/badge/React_Native-v0.62.2-7159c1?style=flat&logoColor=60dafb&logo=react">
+
+  <img alt="Expo version" src="https://img.shields.io/badge/Expo-v36.0.0-blue?style=flat&logo=expo">
+</p>
 
 <h3 align="center">
   Index
