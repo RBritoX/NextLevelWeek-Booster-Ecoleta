@@ -57,7 +57,7 @@ This is version **Booster** of NLW, to check the version **Starter**, access the
 
 ## ♻️ The Project:
 
-Taking into account that we are at the international week of the environment, we developed a project totally focused on ecological purposes. Thus was born Ecoleta, which serves as a Marketplace that connects companies or some other entity that collects organic or inorganic waste, to people who need to dispose of these materials.
+Taking into account that we are at the international week of the environment, we developed a project totally focused on ecological purposes. Thus was born **Ecoleta**, which serves as a Marketplace that connects companies or some other entity that collects organic or inorganic waste, to people who need to dispose of these materials.
 
 ![Home site](https://user-images.githubusercontent.com/34657005/83935903-63d31e00-a794-11ea-8627-915c42ec5811.png)
 ![gif](https://user-images.githubusercontent.com/34657005/83936080-2c657100-a796-11ea-9555-3c3435e72c9b.gif)
