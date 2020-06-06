@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rbritox/nextlevelweek-booster-ecoleta">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/RBritoX/NextLevelWeek-Booster-Ecoleta">
 
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rbritox/nextlevelweek-booster-ecoleta">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/RBritoX/NextLevelWeek-Booster-Ecoleta">
 
-  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/rbritox/nextlevelweek-booster-ecoleta">
+  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/RBritoX/NextLevelWeek-Booster-Ecoleta">
 
   <img alt="Code quality" src="https://api.codacy.com/project/badge/Grade/45ac7042be6941f0be6cf27d7168a1af">
   
@@ -46,7 +46,7 @@
 
 The Next Level Week of [RocketSeat](https://rocketseat.com.br/) came to replace the Omnistack Week, following better for all audiences, from beginners with HTML, CSS and JavaScript, to the most advanced with Node.js, React.js and React Native.
 
-This is version **Booster** of NLW, to check the version **Starter**, access the repository <a href="https://github.com/RBritoX/NextLevelWeek-Starter-Ecoleta">here</a>.
+This is version **Booster** of NLW, to check the version **Starter**, access the repository **<a href="https://github.com/RBritoX/NextLevelWeek-Starter-Ecoleta">here</a>**.
 
 **🎓  Instructor: [Diego Fernandes](https://www.linkedin.com/in/diego-schell-fernandes/)**<br>
 **✍🏼  Layout made in [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=1%3A9) by [Tiago Luchtenberg](https://www.linkedin.com/in/tiago-luchtenberg-0b9a3b97/)**<br>
@@ -54,70 +54,58 @@ This is version **Booster** of NLW, to check the version **Starter**, access the
 - [X] **01/06/2020** - Accelerating your evolution (**Introduction**)
 - [X] **02/06/2020** - Looking at opportunities (**Back-End**)
 - [X] **03/06/2020** - The stack choice (**Front-End**)
-- [ ] **04/06/2020** - Up to 2 years in 2 months
-- [ ] **05/06/2020** - My extra
+- [X] **04/06/2020** - Up to 2 years in 2 months (**Mobile**)
+- [X] **05/06/2020** - My extra (**Advanced Features**)
 
 ## ♻️ The Project:
 
 The application created in this first edition of NLW, was the **Ecoleta**. An application designed to help people find collection points efficiently.
 
-![Captura de Tela 2020-06-02 às 00 50 43](https://user-images.githubusercontent.com/34657005/83478044-33754200-a46b-11ea-8ebb-0816ed7b2de8.png)
+![Home site](https://user-images.githubusercontent.com/34657005/83935903-63d31e00-a794-11ea-8627-915c42ec5811.png)
+![gif](https://user-images.githubusercontent.com/34657005/83936080-2c657100-a796-11ea-9555-3c3435e72c9b.gif)
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/34657005/83935974-3f2b7600-a795-11ea-9d2e-88b6359fc965.png" alt="login" width="250">
+  <img src="https://user-images.githubusercontent.com/34657005/83935980-4ce0fb80-a795-11ea-8c9c-9a9da00fa4ce.png" alt="home" width="250">
+  <img src="https://user-images.githubusercontent.com/34657005/83935992-5d917180-a795-11ea-9170-adee4ef0b941.png" alt="details" width="250">
+</div>
 
 ## 🤖 Back-End
 The Back-End was developed with Node.js and TypeScript, in API Rest format.
-For standardization and organization of the code, ESLint, Prettier and EditorConfig were used.
-The connection to the PostgreSQL database was made with DBeaver and Docker to create containers with TypeORM.
-For authentication and user access control, JWT (Json Web Token) was used.
-To upload images, Multer was used.
 
 ### 🛠 Technologies
 - **[Node.js](https://nodejs.org/en/)**
 - **[TypeScript](https://www.typescriptlang.org/)**
 - *[Express](https://expressjs.com/pt-br/)*
-- *[Docker](https://www.docker.com/)*
-- *[PostgreSQL](https://www.postgresql.org/)*
-- *[DBeaver](https://dbeaver.io/)*
-- *[TypeORM](https://typeorm.io/#/)*
-- *[JWT](https://jwt.io/)*
-- *[ESLint](https://eslint.org/)*
-- *[Prettier](https://prettier.io/)*
-- *[EditorConfig](https://editorconfig.org/)*
+- *[Knex.js](http://knexjs.org/)*
+- *[Nodemon](https://nodemon.io/)*
+- *[Celebrate](https://github.com/arb/celebrate)*
 
 ## 🖥 Front-End
-The Front-End was developed with React.js and TypeScript. For standardization and organization of the code, ESLint, Prettier and EditorConfig were used. The styling was done with Styled-Components. The navigation screens were made with React Router DOM. The validation of login and registration was done with Yup. To connect with the Back-End, Axios was used.
+The Front-End was developed with React.js and TypeScript.
 
 ### 🛠 Technologies
 - **[React.js](https://reactjs.org/)**
 - **[TypeScript](https://www.typescriptlang.org/)**
 - *[React Router DOM](https://reacttraining.com/react-router/web/guides/quick-start)*
-- *[Styled-Components](https://styled-components.com/)*
 - *[React Icons](https://react-icons.netlify.com/#/)*
-- *[Polished](https://polished.js.org/)*
 - *[Axios](https://nodemon.io/)*
-- *[ESLint](https://eslint.org/)*
-- *[Prettier](https://prettier.io/)*
-- *[EditorConfig](https://editorconfig.org/)*
 
 ## 📱 Mobile
-The Mobile was developed with React Nativeand TypeScript. For standardization and organization of the code, ESLint, Prettier and EditorConfig were used. The styling was done with Styled-Components. The navigation screens were made with React Navigation. The validation of login and registration was done with Yup. To connect with the Back-End, Axios was used.
+The Mobile was developed with React Nativeand, Expo and TypeScript.
 
 ### 🛠 Technologies
 - **[React Native](https://reactnative.dev/)**
 - **[TypeScript](https://www.typescriptlang.org/)**
+- *[Expo](https://expo.io/)*
 - *[React Navigation](https://reactnavigation.org/)*
-- *[Styled-Components](https://styled-components.com/)*
 - *[React-Native-Vector-Icons](https://github.com/oblador/react-native-vector-icons)*
-- *[Axios](https://nodemon.io/)*
-- *[ESLint](https://eslint.org/)*
-- *[Prettier](https://prettier.io/)*
-- *[EditorConfig](https://editorconfig.org/)*
 
 ## 🏁 Starting the project:
 
 Clone the project: `git clone https://github.com/RBritoX/NextLevelWeek-Booster-Ecoleta`
 
-🤖 To run the **Back-End**, you must first create a container in Docker and a PostgreSQL database in DBeaver. 
-<br>Then open the terminal and run the following commands:
+🤖 To run the **Back-End**, you must open the terminal and run the following commands:
 
 ````zsh
 # to enter the Back-End folder
@@ -127,7 +115,7 @@ $ cd backend
 $ yarn
 
 # to start the application on port 3333
-$ yarn dev:server
+$ yarn dev
 ````
 
 🖥 To run the **Front-End**, in another terminal tab, execute the following commands:
@@ -144,7 +132,7 @@ $ yarn start
 ````
 Now access `http://localhost:3000/`
 
-📱 To run **Mobile**, you need an Android or iOS simulator (Mac only) running on your computer or connect your physical smartphone to USB. To learn how to install / configure, follow the [RocketSeat tutorial](https://react-native.rocketseat.dev/).
+📱 To run **Mobile**, download the Expo app on your smartphone. ([Android](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR) or [iOS](https://apps.apple.com/br/app/expo-client/id982107779)).
 <br>Now, on another tab of the terminal, run the following commands:
 
 ````zsh
@@ -154,15 +142,13 @@ $ cd mobile
 # to download the dependencies
 $ yarn
 
-# for Android:
-# first open the Android emulator
-# to start the app on the simulator or on the Android physical smartphone connected to the USB device
+# for Android
 $ yarn android
 
-# for iOS:
-# to launch the app on the simulator or on the physical iOS smartphone connected to the USB device (only using Mac)
+# for iOS
 $ yarn ios
 ````
+Now, just use your smartphone's camera to scan the QR Code displayed on the terminal or in the browser that will open to open the application on your smartphone.
 
 ---
 
