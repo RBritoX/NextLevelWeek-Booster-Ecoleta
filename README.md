@@ -52,8 +52,8 @@ This is version **Booster** of NLW, to check the version **Starter**, access the
 **✍🏼  Layout made in [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=1%3A9) by [Tiago Luchtenberg](https://www.linkedin.com/in/tiago-luchtenberg-0b9a3b97/)**<br>
 
 - [X] **01/06/2020** - Accelerating your evolution (**Introduction**)
-- [ ] **02/06/2020** - Looking at opportunities
-- [ ] **03/06/2020** - The stack choice
+- [X] **02/06/2020** - Looking at opportunities (**Back-End**)
+- [X] **03/06/2020** - The stack choice (**Front-End**)
 - [ ] **04/06/2020** - Up to 2 years in 2 months
 - [ ] **05/06/2020** - My extra
 
