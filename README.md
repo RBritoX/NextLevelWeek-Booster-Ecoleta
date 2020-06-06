@@ -9,7 +9,7 @@
 
   <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/RBritoX/NextLevelWeek-Booster-Ecoleta">
 
-  <img alt="Code quality" src="https://api.codacy.com/project/badge/Grade/45ac7042be6941f0be6cf27d7168a1af">
+  <img alt="Code quality" src="https://api.codacy.com/project/badge/Grade/722ecf5da4644001995eba58bb45bfe9">
   
   <img alt="Made by Rocketseat" src="https://img.shields.io/github/license/rbritox/GoStack-GoBarber">
 
@@ -37,10 +37,6 @@
   📱 <a href="#-mobile">Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   🏁 <a href="#-starting-the-project">Starting</a>
 </p>
-
-<h3 align="center">
-  🚧 In Development 🚧
-</h3>
 
 ## 🚀 Next Level Week Booster 1
 
